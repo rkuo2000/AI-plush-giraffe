@@ -1,6 +1,7 @@
 # AI-plush-giraffe
 ![](https://github.com/rkuo2000/AI-plush-giraffe/blob/main/assets/plush_toy_giraffe.webp?raw=true)
 
+---
 ## [Proposal](https://github.com/rkuo2000/AI-plush-giraffe/blob/main/PROPOSAL.md)
 ### Objectives:
 * Add visual perception using the AMB82-Mini camera interface.
@@ -11,6 +12,7 @@
 * Store configuration, sound effects, and interaction logs on microSD.
 * Provide a modular platform for education and embedded-AI experiments.
 
+---
 ## System Block Diagram
 ![](https://github.com/rkuo2000/AI-plush-giraffe/blob/main/assets/AI-plush-toy_block_diagram.png?raw=true)
 
