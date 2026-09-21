@@ -13,7 +13,6 @@
 ## System Block Diagram
 ![](https://github.com/rkuo2000/AI-plush-giraffe/blob/main/assets/AI-plush-toy_block_diagram.png?raw=true)
 
-### Hardware:
 1. EVB : AMB82-Mini
 2. LLM : `gemma4:e2b` based on [Goole-AI-Edge Gallery](https://github.com/google-ai-edge/gallery) v1.0.19
    
