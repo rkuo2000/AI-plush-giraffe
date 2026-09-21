@@ -206,7 +206,7 @@ electronics to be removed for maintenance.
 ### Recommended Repository Layout
 
 ``` text
-AMB82-Smart-Giraffe/
+AI-plus-giraffe/
 ├── README.md
 ├── firmware/
 │   ├── main/
@@ -219,7 +219,7 @@ AMB82-Smart-Giraffe/
 │   ├── wiring.md
 │   └── assembly.md
 └── assets/
-    └── plush_toy_reference.webp
+    └── plush_toy_giraffe.webp
 ```
 
 ### Getting Started
