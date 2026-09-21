@@ -1,4 +1,5 @@
 # AI-plush-giraffe
+![](https://github.com/rkuo2000/AI-plush-giraffe/blob/main/assets/plush_toy_giraffe.webp?raw=true)
 
 ## [Proposal](https://github.com/rkuo2000/AI-plush-giraffe/blob/main/PROPOSAL.md)
 ### Objectives:
@@ -21,4 +22,4 @@
 2. Sound : PAM8403 + speaker
    
 ## ProtoTyping
-![](https://github.com/rkuo2000/AI-plush-giraffe/blob/main/assets/plush_toy_giraffe.webp?raw=true)
+
